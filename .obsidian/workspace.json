@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "25c149617be4a366",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cab076452c47b6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4316311204863924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lifecycle phases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6293c0d26e3370c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee9d412d764e2276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a512ad3b3c95a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "c35166993b5a4dac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a947fbfeb47413d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8a1835cb3d8f7bbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "128838854fffe175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9726b70d100d0217",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lifecycle phases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0ff48242cc33476",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lifecycle phases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01933f19b5916444",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ca1015e6718ae97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lifecycle phases.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4316311204863924",
+  "lastOpenFiles": [
+    "Pasted image 20240622194227.png",
+    "Android Notes.md",
+    "Fragments.md",
+    "Pasted image 20240622193952.png",
+    "Database program- employee, student, product.md",
+    "Layout parameter dynamically change.md",
+    "Explain Database creation queing a database, updating, Removing rows.md",
+    "Role of sensor and accutators in real time embedded os.md",
+    "Embedded systems and real time embedded system.md",
+    "Registration form.md",
+    "Menu program.md",
+    "Mobile Ecosystem.md",
+    "Get sensor data , calculate orientation angles (x and y coordinate).md",
+    "Any 2 sensors in detail.md",
+    "Ball bouncing, image transition, animation form.md",
+    "System architecture.md",
+    "Lifecycle phases.md",
+    "Transfer data from one Activity to another.md",
+    "Develop toast message.md",
+    "Intent Types.md",
+    "Mobile Information Architecture.md",
+    "Registration Form App.md",
+    "Calculator Program.md",
+    "Deploying Android Application.md",
+    "Procedure to create AVD (Android Virtual Device).md",
+    "Pasted image 20240613234138.png",
+    "Pasted image 20240613234127.png",
+    "Pasted image 20240613234043.png",
+    "Pasted image 20240613234036.png",
+    "Pasted image 20240613234034.png",
+    "Pasted image 20240613234021.png",
+    "Pasted image 20240613234009.png",
+    "Pasted image 20240613233950.png",
+    "create a link.md"
+  ]
+}
