@@ -14,4 +14,4 @@
 - **onStop()**: Activity is completely hidden.
 - **onDestroy()**: Cleanup before activity is destroyed.
 - **onRestart()**: Restart activity from stopped state.
-![[Pasted image 20240622194227.png]]
+![ActivityLifecycle](https://media.geeksforgeeks.org/wp-content/uploads/20210303165235/ActivityLifecycleinAndroid-601x660.jpg)
